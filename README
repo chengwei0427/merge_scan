@@ -1,0 +1,3 @@
+#merge_scan
+use a time synchronize , merge two scans (a laserscan and a scan from kinect)
+
